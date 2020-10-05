@@ -9,7 +9,6 @@ driver.implicitly_wait(2)
 driver.get('http://www.meteo.pl/um/php/gpp/search.php')
 
 driver.find_element_by_name('name').send_keys('Gdynia')
-driver.cl
 
 
 driver.find_element_by_xpath('/html/body/table/tbody/tr[5]/td[2]/table/tbody/tr/td[2]/input').click()
