@@ -25,10 +25,9 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3af0acbd-d86d-4698-9b1b-4dc61d1fd0e2" name="Default Changelist" comment="Creating new branch for development.">
-      <change afterPath="$PROJECT_DIR$/meteo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Selenium-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Selenium-Python.iml" afterDir="false" />
+    <list default="true" id="3af0acbd-d86d-4698-9b1b-4dc61d1fd0e2" name="Default Changelist" comment="Opening weather forecast page.&#10;Input localization name.&#10;Open forecast.&#10;Print screen.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/meteo.py" beforeDir="false" afterPath="$PROJECT_DIR$/meteo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +99,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601891120095</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Creating new branch for development.">
+      <created>1601894894103</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601894894103</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Opening weather forecast page.&#10;Input localization name.&#10;Open forecast.&#10;Print screen.">
+      <created>1601894997372</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601894997372</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,43 +126,45 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Creating new branch for development." />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating new branch for development." />
+    <MESSAGE value="Opening weather forecast page.&#10;Input localization name.&#10;Open forecast.&#10;Print screen." />
+    <option name="LAST_COMMIT_MESSAGE" value="Opening weather forecast page.&#10;Input localization name.&#10;Open forecast.&#10;Print screen." />
   </component>
   <component name="WindowStateProjectService">
     <state x="2660" y="383" key="FileChooserDialogImpl" timestamp="1601891484902">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2660" y="383" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601891484902" />
-    <state width="1898" height="269" key="GridCell.Tab.0.bottom" timestamp="1601894847790">
+    <state width="1898" height="256" key="GridCell.Tab.0.bottom" timestamp="1601976190799">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1898" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601891899032" />
-    <state width="1898" height="269" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601894847790" />
-    <state width="1898" height="269" key="GridCell.Tab.0.center" timestamp="1601894847790">
+    <state width="1898" height="256" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601974722908" />
+    <state width="1898" height="256" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601976190799" />
+    <state width="1898" height="256" key="GridCell.Tab.0.center" timestamp="1601976190799">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1898" height="269" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601891899032" />
-    <state width="1898" height="269" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601894847790" />
-    <state width="1898" height="269" key="GridCell.Tab.0.left" timestamp="1601894847790">
+    <state width="1898" height="256" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601974722908" />
+    <state width="1898" height="256" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601976190799" />
+    <state width="1898" height="256" key="GridCell.Tab.0.left" timestamp="1601976190798">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1898" height="269" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601891899032" />
-    <state width="1898" height="269" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601894847790" />
-    <state width="1898" height="269" key="GridCell.Tab.0.right" timestamp="1601894847790">
+    <state width="1898" height="256" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601974722908" />
+    <state width="1898" height="256" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601976190798" />
+    <state width="1898" height="256" key="GridCell.Tab.0.right" timestamp="1601976190799">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state width="1898" height="269" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601891899032" />
-    <state width="1898" height="269" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601894847790" />
+    <state width="1898" height="256" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601974722908" />
+    <state width="1898" height="256" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601976190799" />
     <state x="2381" y="171" key="SettingsEditor" timestamp="1601890937431">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2381" y="171" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601890937431" />
-    <state x="2472" y="272" key="Vcs.Push.Dialog.v2" timestamp="1601891186661">
+    <state x="2472" y="272" key="Vcs.Push.Dialog.v2" timestamp="1601895007661">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2472" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601891186661" />
+    <state x="2472" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601895007661" />
   </component>
 </project>
