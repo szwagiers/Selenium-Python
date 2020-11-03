@@ -19,15 +19,15 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:develop" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3af0acbd-d86d-4698-9b1b-4dc61d1fd0e2" name="Default Changelist" comment="Opening weather forecast page.&#10;Input localization name.&#10;Open forecast.&#10;Print screen.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/meteo.py" beforeDir="false" afterPath="$PROJECT_DIR$/meteo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/weather.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Selenium-Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Selenium-Python.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +41,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1iSAowvXQMfKpX2n3JAN203Y8Nj" />
   <component name="ProjectViewState">
@@ -121,7 +122,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="develop" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -158,13 +171,21 @@
     </state>
     <state width="1898" height="256" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1601974722908" />
     <state width="1898" height="256" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601976190799" />
+    <state x="2104" y="105" key="MergeDialog" timestamp="1604407942995">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2104" y="105" key="MergeDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604407942995" />
+    <state x="2518" y="300" key="MultipleFileMergeDialog" timestamp="1604407944604">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2518" y="300" key="MultipleFileMergeDialog/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604407944604" />
     <state x="2381" y="171" key="SettingsEditor" timestamp="1601890937431">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2381" y="171" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601890937431" />
-    <state x="2472" y="272" key="Vcs.Push.Dialog.v2" timestamp="1601895007661">
+    <state x="2472" y="272" key="Vcs.Push.Dialog.v2" timestamp="1604407930960">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2472" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1601895007661" />
+    <state x="2472" y="272" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604407930960" />
   </component>
 </project>
