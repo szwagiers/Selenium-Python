@@ -1,7 +1,8 @@
 from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
 
+driver = webdriver.Chrome(ChromeDriverManager().install())
 
-driver = webdriver.Chrome(executable_path='c:\\Users\\szwagiers\\SeleniumDrivers\\chromedriver.exe')
 # each time wait 2s, to load element
 driver.implicitly_wait(2)
 # open weather forecast search engine
